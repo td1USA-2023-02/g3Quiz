@@ -42,4 +42,9 @@ plt.show()
 #la gráfica nos dice que únicamente se encuentran 8 margaritas de toda la data disponible y estas se encuentran en un rango de sépalo de 5 a 5,5 centímetros
 #fuera de esos límites, no se encuentra ninguna margarita, para el caso de la longitud del sépalo
 
-#Para el diagrama de violin 
+#Para el diagrama de violin en el caso de las margaritas el intervalo de confianza del 95% es muy corto comparado con aquellos que no son margaritas
+#a su vez, la anchura de la gráfica indica la densidad probabilística que tiene encontrarse un dato dentro de ese rango de longitud de sépalo, siendo nuevamente el caso de la margarita
+#el que más anchura tiene dado que sus datos se condensan mucho más en un intervalo más corto, en este caso, entre 5 y 5,5 como se evidenció en el histograma
+#para los que no son margaritas, su intervalo de confianza del 95% es mucho mas largo ya que se distribuyen mucho más datos en todos los rangos existentes de la longitud del sépalo
+#pero su anchura no es tanta como las margaritas ya que cuenta con muchas más cantidad de datos en esa categoría
+
